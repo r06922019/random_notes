@@ -3,7 +3,7 @@
 ## time strings
 ### bash
 ``` bash
-date 
+date "+%Y%m%d_%H%M%S"
 ```
 ### python 
 ``` python
