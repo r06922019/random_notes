@@ -14,6 +14,10 @@ alias date=gdate
 alias cut=gcut
 ```
 
+```
+read -t 10 -p "ENTER to continue" || echo ""
+```
+
 ## time strings
 
 ### bash
